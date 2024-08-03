@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+body section:nth-child(1){
+    background-image: url(images/Homepage-Model-3-Desktop-US.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    /* background-color: aqua; */
+ 
+}
+
+
+body section:nth-child(2) {
+    background-image: url(images/pic2.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+
+body section:nth-child(3) {
+    background-image: url(images/pic3.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+
+
+body section:nth-child(4) {
+    background-image: url(images/pic4.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+
+body section:nth-child(5) {
+    background-image: url(images/pic5.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+
+body section:nth-child(6) {
+    background-image: url(images/pic7.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+body section:nth-child(7) {
+    background-image: url(images/pic8.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+body section:nth-child(8) {
+    background-image: url(images/pic9.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
